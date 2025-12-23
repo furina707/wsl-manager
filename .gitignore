@@ -1,0 +1,16 @@
+# Compiled binaries
+bin/
+*.exe
+*.o
+*.obj
+*.res
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+temp/
+tmp/
